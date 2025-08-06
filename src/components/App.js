@@ -1,6 +1,6 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { username, email } from "../components/formslice";
+import { username, email } from "../components/Formslic";
 
 const App = () => {
   const dispatch = useDispatch();
